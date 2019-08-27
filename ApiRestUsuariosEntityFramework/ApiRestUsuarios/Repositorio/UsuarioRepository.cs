@@ -40,5 +40,11 @@ namespace ApiRestUsuarios.Repositorio
             _contexto.Usuarios.Remove(entity);
             _contexto.SaveChanges();
         }
+		public Usuario Login(Usuario usuario)
+        {
+            Criptografia cripto = new Criptografia(); 
+            usuario.senha=cripto.RetornarMD5(usuario.senha);
+            return _contexto.Usuarios.SingleOrDefault(u => u.nome==usuario.nome && u.senha==usuario.senha);
+        } 
     }
 }

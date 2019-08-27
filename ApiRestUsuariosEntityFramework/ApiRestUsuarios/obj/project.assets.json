@@ -11805,11 +11805,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lucas\\source\\repos\\ApiRestUsuariosEntityFramework\\ApiRestUsuarios\\ApiRestUsuarios.csproj",
+      "projectUniqueName": "C:\\Users\\lucas\\source\\repos\\ApiRestCrudEntityFramework\\ApiRestUsuariosEntityFramework\\ApiRestUsuarios\\ApiRestUsuarios.csproj",
       "projectName": "ApiRestUsuarios",
-      "projectPath": "C:\\Users\\lucas\\source\\repos\\ApiRestUsuariosEntityFramework\\ApiRestUsuarios\\ApiRestUsuarios.csproj",
+      "projectPath": "C:\\Users\\lucas\\source\\repos\\ApiRestCrudEntityFramework\\ApiRestUsuariosEntityFramework\\ApiRestUsuarios\\ApiRestUsuarios.csproj",
       "packagesPath": "C:\\Users\\lucas\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lucas\\source\\repos\\ApiRestUsuariosEntityFramework\\ApiRestUsuarios\\obj\\",
+      "outputPath": "C:\\Users\\lucas\\source\\repos\\ApiRestCrudEntityFramework\\ApiRestUsuariosEntityFramework\\ApiRestUsuarios\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
