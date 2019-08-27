@@ -1,1 +1,1 @@
-## Web Api utilizando o Asp.Net core com o Entity Framework e o banco de dados Sql Server
+## Web Api de um crud utilizando o asp.net core com o orm Entity Framework utilizando o banco de dados Sql Server seguindo o padrão MVC
